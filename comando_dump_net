@@ -1,0 +1,2 @@
+sudo tcpdump -i enp0s3 tcp
+tcpdump
